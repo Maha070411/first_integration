@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/maha/pom.xml" />
+        <option value="$PROJECT_DIR$/loginPage/pom.xml" />
       </list>
     </option>
   </component>
